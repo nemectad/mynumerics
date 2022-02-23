@@ -16,5 +16,5 @@ setup(
     license='MIT',
     description='Module containing numerical methods and utilities for HHG simulations.',
     # We will also need a readme eventually (there will be a warning)
-    # long_description=open('README.txt').read(),
+    long_description=open('README.md').read(),
 )
