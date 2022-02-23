@@ -11,7 +11,7 @@ setup(
     # Needed for dependencies
     install_requires=['numpy', 'scipy', 'h5py'],
     # *strongly* suggested for sharing
-    version='0.1',
+    version='0.1.1',
     # The license can be anything you like
     license='MIT',
     description='Module containing numerical methods and utilities for HHG simulations.',
