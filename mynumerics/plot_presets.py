@@ -5,7 +5,7 @@ import time
 import shutil
 import h5py
 import sys
-import units
+import mynumerics.units
 import .mynumerics as mn
 
 import re

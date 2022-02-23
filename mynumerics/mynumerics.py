@@ -4,7 +4,7 @@ from scipy import interpolate
 import numpy as np
 import math
 import sys
-import units
+import mynumerics.units
 import h5py
 import warnings
 
