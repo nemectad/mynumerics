@@ -12,3 +12,8 @@ Library developed by Jan Vabek and modified for installation by Tadeas Nemec.
   python3 setup.py install
   ```
 4. All done.
+
+Now you should by able to access the methods contained in the module simply by typing
+```python
+import mynumerics as mn
+```
