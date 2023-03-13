@@ -4,14 +4,22 @@ This library contains several useful numerical methods as well as methods for un
 
 Library developed by Jan Vabek and modified for installation by Tadeas Nemec.
 
-## Installation
-1. Download the directory from Github: https://github.com/nemectad/mynumerics.git.
-2. In terminal/CLI: move into the Download directory and into the root folder of the module.
-3. Run the following command in your base environment:
+## Installation using pip
+Run the following command in terminal:
+```bash
+pip install git+https://github.com/nemectad/mynumerics.git
+```
+
+## Custom installation
+1. Download the directory from Github: https://github.com/nemectad/mynumerics.git
+2. Move into the Download directory and move the folder into a dedicated directory.
+3. In terminal, move into the root folder of the module.
+4. Run the following command in your base environment:
   ```bash
   python3 setup.py install
   ```
-4. All done.
+5. All done.
+
 
 Now you should by able to access the methods contained in the module simply by typing
 ```python
