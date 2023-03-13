@@ -21,7 +21,7 @@ pip install git+https://github.com/nemectad/mynumerics.git
 5. All done.
 
 
-Now you should by able to access the methods contained in the module simply by typing
+Now you should be able to access the methods contained in the module simply by typing
 ```python
 import mynumerics as mn
 ```
